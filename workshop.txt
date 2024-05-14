@@ -1,8 +1,9 @@
 version=1
-title=Mod Template
-description=This is an example mod with two worlds.  You can use this as a template for your own map mods.
+id=3232884829
+title=Deify Me Baby
+description=[h1]What does this do[/h1]
+description=Automatically puts you in god mode upon launching a save, making your character immortal and save them from incoming danger. Just make sure to remove the mod after being saved or you'll stay in god mode for the entire time.
 description=
-description=The first world has a single 300x300-tile cell.
-description=The second world adds cells all around the first world.
-tags=
+description=[img]https://raw.githubusercontent.com/SirDoggyJvla/Deify-Me-Baby/main/images/dagoth.gif[/img]
+tags=Build 41;Balance;Silly/Fun
 visibility=public
